@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on services that support marginalized communites in Seattle
 - 🤔 I’m looking for help with gaining understanding of Software Dev workflow and landing that first job
 - 💬 Ask me about the book Clean Code by Uncle Bob
-- 📫 How to reach me: (https://https://www.linkedin.com/in/thegarylarson/)
+- 📫 How to reach me: (https://www.linkedin.com/in/thegarylarson/)
 - 😄 Pronouns: (he/him/his)
 - ⚡ Fun fact: A shrimp's heart is in its head!
 
