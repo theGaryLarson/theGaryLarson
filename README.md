@@ -33,4 +33,4 @@ I lead software delivery for AI-enabled workforce products and technical program
 
 ---
 
-**Pronouns:** he/him | [LinkedIn](https://www.linkedin.com/in/thegarylarson/)
+[LinkedIn](https://www.linkedin.com/in/thegarylarson/)
