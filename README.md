@@ -32,9 +32,7 @@ I lead software delivery for AI-enabled workforce products and technical program
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGaryLarson&hide=html,css&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" />
 </a>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=theGaryLarson&show_icons=true&theme=default&hide_title=true&cache_seconds=86400" alt="GitHub Stats" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theGaryLarson)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
